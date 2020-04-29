@@ -1,3 +1,5 @@
+//arquivo exemplo para coneccao com o banco de dados
+
 const Sequelize = require('sequelize')
 const sequelize = new Sequelize({
   host: "localhost",
